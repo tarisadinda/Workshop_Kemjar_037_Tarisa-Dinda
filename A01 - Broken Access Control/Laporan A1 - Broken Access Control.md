@@ -1,14 +1,16 @@
-﻿**LAPORAN RESMI                    PRAKTIKUM KEAMANAN JARINGAN A01 – BROKEN ACCESS CONTROL** 
+﻿<div align='center'>
+<h2>LAPORAN RESMI <br> PRAKTIKUM KEAMANAN JARINGAN <br> A01 – BROKEN ACCESS CONTROL</h2>
 
 ![](Aspose.Words.7d7e684d-01f3-4432-8b3e-c6ddd947b64a.001.png)
 
-**Oleh :** 
+<h2>Oleh :</h2>
 
-**Tarisa Dinda Deliyanti  3122640037 Fisabili Maghfirona Firdaus  3122640051 D4 LJ Teknik Informatika B** 
+<h2>Tarisa Dinda Deliyanti  3122640037 <br> Fisabili Maghfirona Firdaus  3122640051 <br> D4 LJ Teknik Informatika B</h2>
 
-**POLITEKNIK ELEKTRONIKA NEGERI SURABAYA** 
+<h2>POLITEKNIK ELEKTRONIKA NEGERI SURABAYA</h2>
 
-**TAHUN AJARAN 2022/2023**
+<h2>TAHUN AJARAN 2022/2023</h2>
+</div>
 
 1. Menjalankan website Juice Shop menggunakan perintah “npm start” di dalam folder Juice  Shop.  Setelah  port  tersedia,  kemudian  membuka  localhost:3000
 
