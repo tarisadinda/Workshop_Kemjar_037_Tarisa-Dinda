@@ -33,7 +33,8 @@ Tarisa Dinda Deliyanti - 3122640037 <br> Fisabili Maghfirona Firdaus - 312264005
 
 5. Tambahkan  base64 dan encryption ROT13. Setelah menambahkan base64 dan ROT13 kedalam recipe maka muncul link menuju file tersembunyi. 
 
-![](Aspose.Words.b8a6d890-8893-40f2-9c73-9e21a91819f5.006.jpeg)Base64 adalah teknik pengkodean, yang mengubah data biner, seperti gambar dan video, menjadi format ASCII (skema pengkodean untuk merepresentasikan data teks dalam sistem komputer). Karena data biner terdiri dari string 0 dan 1, pengkodean Base64 bekerja dengan mengubah karakter ini menjadi himpunan ASCII yang pasti. Hasilnya dapat dengan mudah diterjemahkan dengan memetakan karakter ASCII ke dalam nilai biner. 
+![](Aspose.Words.b8a6d890-8893-40f2-9c73-9e21a91819f5.006.jpeg)
+<br>Base64 adalah teknik pengkodean, yang mengubah data biner, seperti gambar dan video, menjadi format ASCII (skema pengkodean untuk merepresentasikan data teks dalam sistem komputer). Karena data biner terdiri dari string 0 dan 1, pengkodean Base64 bekerja dengan mengubah karakter ini menjadi himpunan ASCII yang pasti. Hasilnya dapat dengan mudah diterjemahkan dengan memetakan karakter ASCII ke dalam nilai biner. 
 
 ROT 13 (Rotation 13) 
 
@@ -45,4 +46,4 @@ Salah satu contoh dari “substitution cipher” adalah Rot13. Metode rot13 meru
 
 ![](Aspose.Words.b8a6d890-8893-40f2-9c73-9e21a91819f5.008.jpeg)
 
-Link video presentasi OWASP A1 :[ https://youtu.be/61A7ucVB570](https://youtu.be/61A7ucVB570) 
+Link video presentasi OWASP A2 :[ https://youtu.be/61A7ucVB570](https://youtu.be/61A7ucVB570) 
